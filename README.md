@@ -20,5 +20,5 @@
 
 📫 **Connect With Me**
 - 📧 Email: aksinghmt5765@gmail.com  
-- 🔗 LinkedIn:  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ankitkumar845 
 - 🐙 GitHub: @ankitkumar845
