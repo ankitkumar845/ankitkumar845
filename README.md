@@ -2,7 +2,7 @@
 
 🎓 I'm pursuing my Master of Computer Applications (M.C.A.) at Roorkee Institute of Technology, Roorkee.
 
-💻 Passionate about full-stack development, web technologies, and open-source contributions.
+💻 Passionate about web development, web technologies, and open-source contributions.
 
 📚 I love building projects that solve real-life problems and help me explore new technologies.
 
@@ -14,11 +14,11 @@
 
 📌 **Currently Learning**
 - ☁️ Cloud basics (Git, GitHub)
-- ⚛️ Deep diving into React.js
+- ⚛️ Deep diving into Data Analyst
 
 ---
 
 📫 **Connect With Me**
-- 📧 Email: ankitkumarmth8888@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ankit845/  
+- 📧 Email: aksinghmt5765@gmail.com  
+- 🔗 LinkedIn:  
 - 🐙 GitHub: @ankitkumar845
