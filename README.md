@@ -14,7 +14,7 @@
 
 📌 **Currently Learning**
 - ☁️ Cloud basics (Git, GitHub)
-- ⚛️ Deep diving into Data Analyst
+- ⚛️ Deep diving into Data Analyst 
 
 ---
 
