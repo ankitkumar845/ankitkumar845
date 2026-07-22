@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+
+<p align="center">
+🎓 MCA Student • 📊 Aspiring Data Analyst • 💻 Python Enthusiast
+</p>
+
+<p align="center">
+Turning raw data into meaningful insights.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 I'm pursuing my **Master of Computer Applications (MCA)** at **Roorkee Institute of Technology, Roorkee, India.**
+I'm an **MCA student** passionate about **Data Analytics** and solving real-world business problems with data.
 
-📊 I'm passionate about **Data Analytics** and enjoy transforming raw data into meaningful insights.
+Currently, I'm building practical projects using **Python, SQL, Excel, Power BI, Pandas, and NumPy** while strengthening my analytical and problem-solving skills.
 
-💡 Currently building hands-on projects using **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
-
-🚀 My goal is to become a skilled **Data Analyst** by working on real-world datasets, dashboards, and analytics projects.
+I'm looking for **Data Analyst Internship** and **Entry-Level Data Analyst** opportunities where I can contribute, learn, and grow.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Programming
+### Languages
 - Python
 - SQL
 
@@ -38,29 +43,41 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Advanced SQL
 - Power BI Dashboards
-- Statistics for Data Analytics
+- Statistics
 - Machine Learning Fundamentals
 
 ---
 
-## 🎯 Career Objective
+## 🎯 2026 Goals
 
-I'm actively looking for **Data Analyst Internship** and **Entry-Level Data Analyst** opportunities where I can apply my analytical skills, contribute to real-world projects, and continue learning.
+✔ Build 15+ Data Analytics Projects
 
----
+✔ Master SQL & Power BI
 
-## 📫 Connect With Me
+✔ Learn Machine Learning
 
-📧 **Email:** aksinghmt5765@gmail.com
+✔ Contribute to Open Source
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ankitkumar845
-
-🐙 **GitHub:** https://github.com/ankitkumar845
+✔ Land a Data Analyst Internship
 
 ---
 
-⭐ *"Turning Data into Insights and Insights into Better Decisions."*
+## 🤝 Let's Connect
+
+💼 LinkedIn
+> https://linkedin.com/in/ankitkumar845
+
+🐙 GitHub
+> https://github.com/ankitkumar845
+
+📧 Email
+> aksinghmt5765@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+If you like my work, don't forget to ⭐ my repositories.
