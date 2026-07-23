@@ -1,46 +1,56 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
 <h3 align="center">
-🎓 MCA Student | 📊 Aspiring Data Analyst | 🐍 Python Enthusiast
+🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Python Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Things;Open+to+Internships" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Student passionate about Data Analytics and Business Intelligence.
+🎓 MCA Student passionate about **Data Analytics** and **Business Intelligence**.
 
-📊 I enjoy transforming raw data into meaningful insights that support better decision-making.
+💡 I enjoy transforming raw data into meaningful insights through analysis and visualization.
 
-💻 Currently learning and building projects using Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib and Seaborn.
+📚 Currently learning:
 
-🚀 Continuously improving my analytical and problem-solving skills through real-world projects.
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Excel
+- Power BI
 
-🎯 Looking for Data Analyst Internship and Entry-Level Data Analyst opportunities.
+🚀 Building real-world Data Analytics projects.
+
+🎯 Looking for Data Analyst Internship & Entry-Level opportunities.
 
 ---
 
 # 💼 Upcoming Internship
 
 ### 📊 Data Analyst Intern
+
 **Unified Mentor Pvt. Ltd.**
 
-📅 **Duration:** August 2026 – October 2026 (2 Months)
+📅 **Duration:** 01 August 2026 – 01 October 2026
 
-**Status:** Joining from **1 August 2026**
+**Status:** Joining Soon
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
 </p>
 
 ### Libraries
@@ -64,23 +74,17 @@
 
 🏠 House Price Prediction
 
-📈 Sales Data Analysis Dashboard
-
 📊 Netflix Data Analysis
-
-🚕 Uber Data Analysis
-
-📉 Exploratory Data Analysis using Python
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkumar845&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkumar845&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar845&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar845&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,17 +94,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ankitkumar845&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankitkumar845&theme=tokyonight&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=ankitkumar845&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,9 +110,33 @@
 
 ---
 
+# 📚 Currently Learning
+
+✔ Python
+
+✔ SQL
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Power BI
+
+✔ Data Visualization
+
+✔ Machine Learning Basics
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about solving business problems using data. My goal is to build practical data analytics projects, improve my analytical skills, and contribute to impactful, data-driven solutions while continuously learning new technologies.
+
+---
+
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/ankitkumar845">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -136,16 +154,26 @@
 
 ---
 
-# 👀 Profile Views
+# 📊 Profile Views
 
-![](https://komarev.com/ghpvc/?username=ankitkumar845&color=0e75b6)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ankitkumar845&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
 # 💡 Quote
 
-> **"Turning raw data into meaningful insights."**
+<p align="center">
+
+<i>"Turning raw data into meaningful insights."</i>
+
+</p>
 
 ---
 
-⭐ **Thank you for visiting my GitHub Profile! Feel free to explore my repositories and connect with me.**
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
